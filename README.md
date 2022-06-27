@@ -1,3 +1,10 @@
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCWMSO5jUSWz9pWFdaLcqanw?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw/videos)
+[![YouTube](https://img.shields.io/youtube/channel/views/UCWMSO5jUSWz9pWFdaLcqanw?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw/videos)
+[![Discord](https://img.shields.io/discord/951315595494826045?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/FJFfTkNdew)
+
+-----
+
 #### Setting Us Is Just Simple | Before Beigning The Code Credits To STORM™#7465
 There Is A Video Tutorial Availabe. | [Click Here To View It](https://discord.gg/DZHAZGyQTq) |
 
